@@ -48,7 +48,7 @@ for side model:
 classification
 `python train_2ndstage.py --all`
 
-# Inferece
+# Check CV
 1. 1ststage-inferenceでdetection結果を取得
 
 Get inference results with `1st-stage-Inference.ipynb`
@@ -56,4 +56,6 @@ Get inference results with `1st-stage-Inference.ipynb`
 2.2nd stage-inferenceでclassification。
 
 CLassify with `2nd-stage-Inference.ipynb`
+
+CV: `0.47~0.5`
 
