@@ -1,4 +1,6 @@
 # 13th place solution of team tara
+Work by team tara: [@tereka](https://www.kaggle.com/tereka) [@hidehisaarai1213](https://www.kaggle.com/hidehisaarai1213) [@rishigami](https://www.kaggle.com/rishigami) [arutema47](https://www.kaggle.com/kyoshioka47)
+
 Public: 7th 0.5503
 
 Private: 13th 0.5017
