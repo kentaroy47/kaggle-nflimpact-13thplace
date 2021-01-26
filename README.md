@@ -10,6 +10,8 @@ fix.. Private: 8th 0.5337
 ## Overview
 [Solution writeup](https://www.kaggle.com/c/nfl-impact-detection/discussion/208801)
 
+[Submitted inference code](https://www.kaggle.com/kyoshioka47/pp-mod-of-2-stage-3d?scriptVersionId=51447826)
+
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F3508221%2Fa5abcefa4a1968535ed22d82b18569ee%2Fimage%20(1).png?generation=1609822336590711&alt=media)
 
 
