@@ -1,4 +1,8 @@
 # 13th place solution of team tara
+![](https://storage.googleapis.com/kaggle-media/competitions/nfl-helmet-impacts/impacts.gif)
+
+This is our team's solution for [Kaggle NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
+
 Work by team tara: [@tereka](https://www.kaggle.com/tereka) [@hidehisaarai1213](https://www.kaggle.com/hidehisaarai1213) [@rishigami](https://www.kaggle.com/rishigami) [@arutema47](https://www.kaggle.com/kyoshioka47)
 
 Public: 7th 0.5503
