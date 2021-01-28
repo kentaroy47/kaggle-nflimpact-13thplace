@@ -1,4 +1,8 @@
 # 13th place solution of team tara
+![](https://storage.googleapis.com/kaggle-media/competitions/nfl-helmet-impacts/impacts.gif)
+
+This is our team's solution for [Kaggle NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
+
 Work by team tara: [@tereka](https://www.kaggle.com/tereka) [@hidehisaarai1213](https://www.kaggle.com/hidehisaarai1213) [@rishigami](https://www.kaggle.com/rishigami) [@arutema47](https://www.kaggle.com/kyoshioka47)
 
 Public: 7th 0.5503
@@ -16,9 +20,7 @@ fix.. Private: 8th 0.5337
 
 
 # Preparation
-`pip install odach`
-
-`pip install timm=0.1.26`
+`pip install -r requirements.txt`
 
 1. `train-prepare-labels.ipynb`でラベルと画像データを書き出し
 
@@ -42,7 +44,7 @@ for side model:
 classification
 `python train_2ndstage.py --all`
 
-# Inferece
+# Check CV
 1. 1ststage-inferenceでdetection結果を取得
 
 Get inference results with `1st-stage-Inference.ipynb`
@@ -50,4 +52,6 @@ Get inference results with `1st-stage-Inference.ipynb`
 2.2nd stage-inferenceでclassification。
 
 CLassify with `2nd-stage-Inference.ipynb`
+
+CV: `0.47~0.5`
 
