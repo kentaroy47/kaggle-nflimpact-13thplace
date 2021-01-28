@@ -20,11 +20,7 @@ fix.. Private: 8th 0.5337
 
 
 # Preparation
-`pip install odach`
-
-`pip install timm=0.1.26`
-
-`pip install catalyst`
+`pip install -r requirements.txt`
 
 1. `train-prepare-labels.ipynb`でラベルと画像データを書き出し
 
